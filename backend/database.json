@@ -1,0 +1,33 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Carlos Erig",
+            "senha": "1234"
+        },
+        {
+            "id": 2,
+            "nome": "Eduardo Erig",
+            "senha": "1234"
+        },
+        {
+            "id": 3,
+            "nome": "Heloisa Erig",
+            "senha": "1234"
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "descricao": "Livro Código Limpo"
+        },
+        {
+            "id": 2,
+            "descricao": "Livro Negócio do Século 21"
+        },
+        {
+            "id": 3,
+            "descricao": "Programando em Dart"
+        }
+    ]
+}
